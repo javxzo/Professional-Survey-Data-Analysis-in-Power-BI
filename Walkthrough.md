@@ -9,7 +9,7 @@ When we first open up the survey data, we'll notice a number of things - the fir
 We can remove those columns before moving onto the first question - Which Title Best Fits your Current Role?
 
 The issue with this data is the amount of varying answers. Respondents were given a number of options with one of them being: Other (Please Specify):"Insert Another Answer here". If we go into our filter and see the different options, you'll see issues like this amongst others:
-![alt text](images\image-1.png)
+![alt text](image-1.png)
 
 While this might be easier to fix with Excel, we're going to see what we can do under the Power Query Editor and for now, try to generalize it.
 
